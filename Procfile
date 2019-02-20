@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT valeria_test_flow_1006.wsgi:application
